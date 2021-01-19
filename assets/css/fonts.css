@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Rondo';
-	src: url('../fonts/rondo.ttf') format('truetype');
-	src: url('../fonts/Rondo.woff') format('woff');
-	src: url('../fonts/rondo.woff2') format('woff2');
+	src: url('Etch-a-Sketch/assets/fonts/rondo.ttf') format('truetype');
+	src: url('Etch-a-Sketch/assets/fonts/Rondo.woff') format('woff');
+	src: url('Etch-a-Sketch/assets/fonts/rondo.woff2') format('woff2');
 }
