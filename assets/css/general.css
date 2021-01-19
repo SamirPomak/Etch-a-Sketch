@@ -8,7 +8,7 @@
 }
 
 .wrap:hover {
-	cursor: url('Etch-a-Sketch/assets/img/paint-brush.png'), auto;
+	cursor: url('/assets/img/paint-brush.png'), auto;
 }
 
 .item {
