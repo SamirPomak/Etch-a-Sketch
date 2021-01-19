@@ -8,7 +8,7 @@
 }
 
 .wrap:hover {
-	cursor: url('/assets/img/paint-brush.png'), auto;
+	cursor: url('../img/paint-brush.png'), auto;
 }
 
 .item {

@@ -8,7 +8,6 @@ reset.addEventListener('click', clearGrid);
 resize.addEventListener('click', resizeGrid);
 
 function setGrid(size = defaultSize, colorStyle) {
-	console.log(wrap);
 	wrap.style.gridTemplateColumns = `repeat(${size}, 1fr)`;
 	for (let i = 0; i < size * size; i++) {
 		let div = document.createElement('div');
